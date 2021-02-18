@@ -6,5 +6,21 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'bases';
+  
+
+
+  // sumar() {
+  //   this.numero += 1;
+  // }
+
+  // restar(){
+  //   if(this.numero===0) {
+  //     return;
+  //   }
+  //   this.numero -= 1;
+  // } 
+
+  
+
+
 }
